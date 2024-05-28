@@ -3,5 +3,6 @@
 nome = 'Thiago'
 idade = 36
 altura = 1.75
-status_trabalhando = True
+statu_trabalhando = True
 
+calculo = 2*4 + 3
