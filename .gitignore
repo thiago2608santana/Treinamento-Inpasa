@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+#Wallets
+Wallet IGOTLA3CC26LF7P2/
+Wallet YJN555EL5NIAILND/
+
+#Banco salvo
+banco.xlsx
+
 # Distribution / packaging
 .Python
 build/
